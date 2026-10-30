@@ -67,7 +67,7 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
 
 
 <h3 align="center">My Languages !</h3>
-
+<div align="center"">
 <img 
     align="left" 
     alt="JAVA"
@@ -130,3 +130,4 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
     style="right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
+</div>
