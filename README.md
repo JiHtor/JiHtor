@@ -57,8 +57,8 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
 </picture>
 
 
-<h3 align="left">My Languages !</h3>
-<div style="background-color: #252525; padding: 20px; border-radius: 15px;">
+<h3 align="center">My Languages !</h3>
+<div style="background-color: #ff0000; padding: 200px; border-radius: 15px;">
 <img 
     align="left" 
     alt="JAVA"
@@ -73,7 +73,7 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
     alt="Github"
     title="GitHub"
     width="50px"
-    style="padding-right: 10px;"
+    style="padding-center: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
 
@@ -82,7 +82,7 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
     alt="Git" 
     title="Git"
     width="50px" 
-    style="padding-right: 10px;" 
+    style="padding-center: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
@@ -91,7 +91,7 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
     alt="HTML" 
     title="HTML"
     width="50px" 
-    style="padding-right: 10px;" 
+    style="padding-center: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
@@ -100,7 +100,7 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
     alt="CSS" 
     title="CSS"
     width="50px" 
-    style="padding-right: 10px;" 
+    style="padding-center: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
 
@@ -109,7 +109,7 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
     alt="MySQL" 
     title="MySQL"
     width="50px" 
-    style="padding-right: 10px;" 
+    style="padding-center: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 
@@ -118,7 +118,7 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
     alt="C#" 
     title="C#"
     width="50px" 
-    style="padding-right: 10px;" 
+    style="padding-center: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
 </div>
