@@ -87,7 +87,7 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
 />
 
 <img 
-    align="lett" 
+    align="left" 
     alt="Git" 
     title="Git"
     width="50px" 
@@ -131,3 +131,21 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
 </div>
+
+<h3 align="center">My Languages!</h3>
+
+<p align="center">
+  <img alt="Java" title="Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  &nbsp;&nbsp;
+  <img alt="GitHub" title="GitHub" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+  &nbsp;&nbsp;
+  <img alt="Git" title="Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  &nbsp;&nbsp;
+  <img alt="HTML" title="HTML" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  &nbsp;&nbsp;
+  <img alt="CSS" title="CSS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  &nbsp;&nbsp;
+  <img alt="MySQL" title="MySQL" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  &nbsp;&nbsp;
+  <img alt="C#" title="C#" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+</p>
