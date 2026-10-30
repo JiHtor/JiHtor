@@ -52,7 +52,7 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/JiHtor/JiHtor/output/github-contribution-grid-snake.svg">
 
-  <img align="center" alt="GitHub Contribution Snake"
+  <img align="center" 
     src="https://raw.githubusercontent.com/JiHtor/JiHtor/output/github-contribution-grid-snake.svg">
 </picture>
 
