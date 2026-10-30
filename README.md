@@ -6,7 +6,7 @@
 
 #
 
-Meu nome é Arthur Girardi, tenho 19 anos e moro em São Paulo, capital. Sou estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Senac.
+Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS no Centro Universitário Senac.
 
 #
 
@@ -14,8 +14,8 @@ Meu nome é Arthur Girardi, tenho 19 anos e moro em São Paulo, capital. Sou est
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:arthurgntomei@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/arthur-girardi-noronha-tomei-646110356/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:heitorsoaresdasilva2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/heitor-soares-da-silva/)
 
 
 <h3 align="left">My Stack ~</h3>
