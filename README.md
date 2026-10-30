@@ -49,9 +49,9 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
 </p>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JiHtor/JiHtor/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JiHtor/JiHtor/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JiHtor/JiHtor/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/girardiarthur/girardiarthur/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/girardiarthur/girardiarthur/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/girardiarthur/girardiarthur/output/github-contribution-grid-snake.svg">
 </picture>
 
 <picture>
@@ -83,4 +83,6 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
   <img alt="C#" title="C#" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JiHtor&color=green&style=for-the-badge&label=PROFILE+VIEWS">
+</p>
