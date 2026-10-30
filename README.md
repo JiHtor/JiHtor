@@ -56,9 +56,9 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
     src="https://raw.githubusercontent.com/JiHtor/JiHtor/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- 
-<h3 align="left">My Languages !</h3>
 
+<h3 align="left">My Languages !</h3>
+<div style="background-color: #252525; padding: 20px; border-radius: 15px;">
 <img 
     align="left" 
     alt="JAVA"
@@ -121,7 +121,8 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
--->
+</div>
+
 <h3 align="left">My Languages!</h3>
 
 <div style="background-color: #252525; padding: 20px; border-radius: 15px;">
