@@ -6,8 +6,6 @@
   >
 </p>
 
-<img align="center" alt="" height="500px" src="https://www.bing.com/th/id/OGC.278ec466e548d751829c407815d73e91?r=0&o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f21%2fa9%2f33%2f21a9331979dcaaee10d54a870edf3825.gif&ehk=jsGzXLbz%2fa%2b98OdnGTOCCDGyLBxDvlP6Y4C%2fLf1o3%2fw%3d">
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+OL%C3%81+BEM+VINDO+AO+MEU+PERFIL!"  alt="Typing SVG">
@@ -21,6 +19,8 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
 #
 
 <img align="right" alt="" height="190px" src="https://www.bing.com/th/id/OGC.4d07544df09f44f7c9ad5d753a664249?r=0&o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2ff6%2fd2%2fe4%2ff6d2e4d12d3f596fe90eaae11d259f1e.gif%3fnii%3dt&ehk=4TZDLJdCImoGnfh6CQBhZco23j1HBbK%2f3XViseSsdAo%3d">
+<br>
+<br>
 
 <h3 align="left">Connect with me!</h3>
 
