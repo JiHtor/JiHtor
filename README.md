@@ -58,7 +58,7 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
 
 
 <h3 align="center">My Languages !</h3>
-<div style="background-color: #ff0000; padding: 200px; border-radius: 15px;">
+<div style=align="center">
 <img 
     align="left" 
     alt="JAVA"
