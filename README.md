@@ -27,6 +27,9 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:heitorsoaresdasilva2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/heitor-soares-da-silva/)
 
+<br>
+<br>
+<br>
 <h3 align="left">GitHub Stats</h3>
 
 <p>
@@ -91,6 +94,7 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
     title="Git"
     width="50px" 
     style="center: 10px;"
+    color="black"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
