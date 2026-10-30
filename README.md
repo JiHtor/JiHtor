@@ -1,4 +1,4 @@
-<img align="center" alt="" height="190px" src="./scr/l.gif">
+<img align="center" alt="" height="300px" src="https://www.bing.com/th/id/OGC.4d07544df09f44f7c9ad5d753a664249?r=0&o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2ff6%2fd2%2fe4%2ff6d2e4d12d3f596fe90eaae11d259f1e.gif%3fnii%3dt&ehk=4TZDLJdCImoGnfh6CQBhZco23j1HBbK%2f3XViseSsdAo%3d">
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -105,7 +105,7 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
 />
 
 <img 
-    align="center" 
+    align="left" 
     alt="MySQL" 
     title="MySQL"
     width="50px" 
