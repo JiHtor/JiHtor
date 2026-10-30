@@ -73,7 +73,3 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
   &nbsp;&nbsp;
   <img alt="C#" title="C#" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JiHtor&color=green&style=for-the-badge&label=PROFILE+VIEWS">
-</p>
