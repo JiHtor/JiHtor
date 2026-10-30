@@ -78,7 +78,7 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
 />
 
 <img
-    align="left"
+    align="center"
     alt="Github"
     title="GitHub"
     width="50px"
@@ -96,7 +96,7 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
 />
 
 <img 
-    align="left" 
+    align="center" 
     alt="HTML" 
     title="HTML"
     width="50px" 
@@ -105,7 +105,7 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
 />
 
 <img 
-    align="left" 
+    align="center" 
     alt="CSS" 
     title="CSS"
     width="50px" 
@@ -114,7 +114,7 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
 />
 
 <img 
-    align="left" 
+    align="center" 
     alt="MySQL" 
     title="MySQL"
     width="50px" 
@@ -123,7 +123,7 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
 />
 
 <img 
-    align="left" 
+    align="center" 
     alt="C#" 
     title="C#"
     width="50px" 
