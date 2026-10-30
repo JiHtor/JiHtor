@@ -64,7 +64,7 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
     alt="JAVA"
     title="JAVA" 
     width="50px" 
-    style="center: 10px;" 
+    style="right": 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
