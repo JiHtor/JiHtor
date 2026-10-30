@@ -65,7 +65,7 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
     src="https://raw.githubusercontent.com/JiHtor/JiHtor/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h3 align="center">My Languages!</h3>
+<h3 align="center">My Technologies & Tools</h3>
 
 <p align="center">
   <img alt="Java" title="Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
@@ -81,4 +81,8 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
   <img alt="MySQL" title="MySQL" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   &nbsp;&nbsp;
   <img alt="C#" title="C#" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JiHtor&color=green&style=for-the-badge&label=PROFILE+VIEWS">
 </p>
