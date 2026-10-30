@@ -20,7 +20,6 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
 
 <img align="right" alt="" height="200px" src="https://www.bing.com/th/id/OGC.b9b0f9dcb3d9dbbce4dd6b234cacabd3?r=0&o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fmedia.tenor.com%2fAlO9Jg5gQm4AAAAC%2fshizuku-hunter-x-hunter.gif&ehk=%2fMe8w%2b78B5yzeC4VGx%2bySx4%2bWbT%2fb5nRz52BGgOb%2f2k%3d">
 <br>
-<br>
 
 <h3 align="left">Connect with me!</h3>
 
@@ -93,7 +92,6 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
     title="Git"
     width="50px" 
     style="center: 10px;"
-    color="black"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
@@ -125,7 +123,7 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
 />
 
 <img 
-    align="center" 
+    align="left" 
     alt="C#" 
     title="C#"
     width="50px" 
