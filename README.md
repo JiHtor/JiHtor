@@ -54,16 +54,7 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/girardiarthur/girardiarthur/output/github-contribution-grid-snake.svg">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/JiHtor/JiHtor/output/github-contribution-grid-snake-dark.svg">
 
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/JiHtor/JiHtor/output/github-contribution-grid-snake.svg">
-
-  <img align="center" 
-    src="https://raw.githubusercontent.com/JiHtor/JiHtor/output/github-contribution-grid-snake.svg">
-</picture>
 
 <h3 align="center">My Technologies & Tools</h3>
 
