@@ -18,7 +18,7 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
 
 #
 
-<img align="right" alt="" height="190px" src="https://www.bing.com/th/id/OGC.4d07544df09f44f7c9ad5d753a664249?r=0&o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2ff6%2fd2%2fe4%2ff6d2e4d12d3f596fe90eaae11d259f1e.gif%3fnii%3dt&ehk=4TZDLJdCImoGnfh6CQBhZco23j1HBbK%2f3XViseSsdAo%3d">
+<img align="right" alt="" height="200px" src="https://www.bing.com/th/id/OGC.b9b0f9dcb3d9dbbce4dd6b234cacabd3?r=0&o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fmedia.tenor.com%2fAlO9Jg5gQm4AAAAC%2fshizuku-hunter-x-hunter.gif&ehk=%2fMe8w%2b78B5yzeC4VGx%2bySx4%2bWbT%2fb5nRz52BGgOb%2f2k%3d">
 <br>
 <br>
 
@@ -27,7 +27,6 @@ Eu me chamo Heitor Soares, sou de SP, capital. Atualmente sou estudante de TADS 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:heitorsoaresdasilva2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/heitor-soares-da-silva/)
 
-<br>
 <br>
 <br>
 <h3 align="left">GitHub Stats</h3>
